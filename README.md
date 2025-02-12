@@ -1,1 +1,1 @@
-# VS-Code-Plugin
+Use this extension to save your project in firebase.
